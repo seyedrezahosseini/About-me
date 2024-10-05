@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Seyed Reza Hosseini  
-- 👀 I’m passionate about Electrical Engineering, particularly in fault diagnosis and condition monitoring of electric machines.
-- 🌱 I’m currently expanding my knowledge in Machine Learning and Deep Learning, with a focus on applications in electrical systems.
-- 💼 I’m looking to collaborate on projects related to Electric Machine Design, Fault Diagnosis, and Finite Element Modeling.
-- 📫 Feel free to reach out to me via email at ee.seyedrezahosseini@gmail.com for inquiries or collaboration opportunities.
+- 👀 I’m passionate about **Electrical Engineering**, particularly in **fault diagnosis** and **condition monitoring** of **electric machines**.
+- 🌱 I’m currently expanding my knowledge in **Machine Learning** and **Deep Learning**, with a focus on **applications in electrical systems**.
+- 💼 I’m looking to collaborate on projects related to E**lectric Machine Design**, **Fault Diagnosis**, and **Finite Element Modeling**.
+- 📫 Feel free to reach out to me via **email** at ee.seyedrezahosseini@gmail.com for inquiries or collaboration opportunities.
 - 🌐 You can also visit my profile on **LinkedIn** via https://www.linkedin.com/in/seyed-reza-hosseini/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have hands-on experience in repairing electronic devices, from mobile phones to electric machines!
